@@ -65,6 +65,6 @@ Finally, use Playwright to create powerful and reliable automated tests for web 
 
 # ADD YOUR PROJECT LINKS BELOW THIS 
 
-[project link](install.md)
-[instructions]()
+[install](install.md)
+[deploy]()
 [readme](readme.md)
